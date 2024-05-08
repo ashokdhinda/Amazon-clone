@@ -227,6 +227,36 @@ margin-bottom: 15px;
     font-size: 13px;
 }
 footer{
+    margin-top: 25px;
+}
+.footer-one{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
+.footer-two{
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    ul{
+    margin-top: 20px;
+    }
+    a{
+        display: block;
+        font-size: 0.85rem;
+        margin-top: 15px;
+        color: #dddddd;
+    }
+}
+
+
+.footer-three{
     display: flex;
     justify-content: space-between;
     align-items: center;

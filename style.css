@@ -264,3 +264,18 @@ footer{
     background:#131921;
     padding: 20px 60px;
 }
+
+/* --------media query------- */
+@media only screen and (max-width:900px) {
+    nav{
+        flex-wrap: wrap;
+    }
+    .nav-search{
+        order: 7;
+        margin: 15px 0 5px;
+        min-width: 300px;
+    }
+    .box-coll{
+        max-width: 48%;
+    }
+}

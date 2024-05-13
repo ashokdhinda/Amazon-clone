@@ -1,2 +1,2 @@
 # Amazon-clone
-https://poetic-crumble-9f4ed3.netlify.app/
+https://spectacular-granita-04cb97.netlify.app/
